@@ -1,0 +1,12 @@
+# ninja log v5
+88	801	7855816606337300	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f3b1e652d6c6c97d
+803	1293	7855816610871198	C:/Weather/WeatherVR/WeatherVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a73225b/obj/arm64-v8a/libswappywrapper.so	ee2d53acd19e48ba
+52	3099	7855816629420208	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fa1ea51921b0f80f
+41	3143	7855816629713280	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b2d2e24c3abc45c9
+1	3154	7855816629960442	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2f8023aaf89a0b0a
+75	3173	7855816630183058	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ad0c7ce8850dd274
+11	3239	7855816630817455	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5e491fb52d7c8b4f
+63	3411	7855816632596610	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	230e77d2c13d26f
+30	3452	7855816632982385	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	559f97d62faa805a
+21	3541	7855816633879966	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2e578ad31ff11d3d
+3542	3647	7855816634972559	C:/Weather/WeatherVR/WeatherVR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a73225b/obj/arm64-v8a/libgame.so	977dc506f9bc4f78
